@@ -19,6 +19,3 @@ Web Development React Js
 * Webpack plugins (htmlwebpack-plugin) npm i --save-dev html-webpack-plugin
 * To Build Dev : npx webpack --env=dev --config=_webpack/webpack.config.js
 * To Build prod: npx webpack --env=prod --config=_webpack/webpack.config.js
-
-
-
