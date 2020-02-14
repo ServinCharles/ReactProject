@@ -21,4 +21,4 @@ Web Development React Js
 * To Build prod: npx webpack --env=prod --config=_webpack/webpack.config.js
 * Webpack Dev Server
 * Firebase Hosting setup : 1) npm i -D firebase-tools  2) npx firebase login 3) npx firebase init
-* Integrate your code with Circle CI : create /circleci/config.yml and add configurations
+* Integrate your code with Circle CI :create /circleci/config.yml and add configuration
